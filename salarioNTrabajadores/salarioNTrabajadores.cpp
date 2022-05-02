@@ -1,5 +1,5 @@
 //Luis Adrian Villalobos Rivera 220120379 1ISC FP
-//Fibbonacci
+//salario N trabajadores
 #include <iostream>
 
 using namespace std;
