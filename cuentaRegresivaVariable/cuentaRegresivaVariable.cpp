@@ -6,7 +6,7 @@
 using namespace std;
 
 int main(){
-    int numeroA, numeroB, suma=0;
+    int numeroA, numeroB;
 
     do{
       cout<<"Ingrese el numero A: ";
